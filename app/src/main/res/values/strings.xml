@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message"> Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="grad_month">May</string>
+    <string name="grad_day">23rd</string>
+    <string name="grad_year">2016</string>
+
+    <string name="title">The time until graduation is: </string>
+
+    <string name="year_title"> Years</string>
+    <string name="week_title"> Weeks</string>
+    <string name="day_title"> Days</string>
+</resources>
